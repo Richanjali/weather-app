@@ -1,1 +1,1 @@
-# weather-app
+# Real time weather monitoring App
